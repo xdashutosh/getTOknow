@@ -2,4 +2,4 @@
 #### Want to get some jokes and picklines...go for __LMAO__
 ---
 
-![codebase](https://xdashutosh.github.io/getTOknow/Screenshot from 2021-12-13 11-18-58.png)
+![codebase](https://raw.githubusercontent.com/xdashutosh/getTOknow/main/Screenshot%20from%202021-12-13%2011-18-58.png)
