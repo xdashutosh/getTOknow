@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+overflow-x: hidden;
+overflow-y: hidden;
+}
+body{
+    background-color:black;
+    color: white;
+    padding:20px;
+ border-bottom: 2px solid white;
+ border-left: 2px solid white;
+
+ box-shadow: 3px 3px 8px white;
+}
+#content{
+    
+    height: 100%;
+    width: 200px;
+}
