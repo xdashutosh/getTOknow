@@ -2,6 +2,4 @@
 #### Want to get some jokes and picklines...go for __LMAO__
 ---
 
-<video width="320" height="240" controls>
-  <source src="https://xdashutosh.github.io/getTOknow/Screencast%20from%2013-12-21%2010:45:26%20AM%20IST.webm" type="video/webm">
-</video>
+![codebase](https://xdashutosh.github.io/getTOknow/Screenshot from 2021-12-13 11-18-58.png)
